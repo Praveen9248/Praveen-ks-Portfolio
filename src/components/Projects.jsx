@@ -96,7 +96,13 @@ const Projects = () => {
                 ))}
               </div>
               <div>
-                <span>View Code</span>
+                <a
+                  href={project.gitHubLink}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  View Code
+                </a>
               </div>
             </div>
           </div>
