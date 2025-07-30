@@ -39,7 +39,7 @@ const Projects = () => {
       description:
         "A full-stack platform to digitalize the paper work and make process digital.",
       techStack: ["React", "Tailwind CSS", "FormSubmit API"],
-      gitHubLink: "https://github.com/Praveen9248/Praveen-s-Portfolio",
+      gitHubLink: "https://github.com/Praveen9248/Praveen-ks-Portfolio",
     },
     {
       id: 4,
